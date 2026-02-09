@@ -1,0 +1,5 @@
+enter grocery list
+then store grocery list alphabetically as "list"
+request user to report the item put to cart
+if the user has reported the item
+print the list in alphabetical order
