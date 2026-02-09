@@ -1,0 +1,4 @@
+Request for input users name
+store name in a variable called "first_name"
+if the input is equal to "first_name"
+ print out the "first_name" along with "hello world" next to it
