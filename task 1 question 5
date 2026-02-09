@@ -1,0 +1,5 @@
+request user to input a randomm number and store it as a variable named "y"
+request the user to input another ramdom number and store it as a variable named "X"
+then add the two numbers and the answer will be stored and a variable named S
+then take "S" and divide it by two and store it as a variable named "A"
+then multiply "Y" by "X" and store it as a variable named P
